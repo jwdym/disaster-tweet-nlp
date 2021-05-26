@@ -2,8 +2,8 @@
 Kaggle competition to process and classify tweets as disaster tweets or not
 
 ## Contents
-`Processing Disasters with Tweets.ipynb `
-- Notebook containing code used to parse tweet data and build models to predict if a tweet is a disaster or not
+- `Processing Disasters with Tweets.ipynb`
+-- Notebook containing code used to parse tweet data and build models to predict if a tweet is a disaster or not
 `contractions.json`
 - json file containing a contraction dictionary for expanding contraction words
 `slang.json`
