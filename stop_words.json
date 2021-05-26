@@ -1,0 +1,15 @@
+{
+    "stopwords": ["the", "a", "to", "in", 
+                "of", "", "i", "and", "s", 
+                "is", "you", "for", "on", 
+                "it", "my", "that", "with",
+                "at", "by", "t", "this",
+                "from", "be", "are", "have",
+                "was", "like", "amp", "as",
+                "up", "me", "just", "but", 
+                "so", "your", "our", "we",
+                "he", "her", "she", "him",
+                "they", "them", "their", 
+                "what", "which", "those", 
+                "your", "its", "im"]
+}
